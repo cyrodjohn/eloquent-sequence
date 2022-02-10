@@ -1,5 +1,5 @@
 {
-    "name": " cyrodjohn/eloquent-sequence",
+    "name": "highsolutions/eloquent-sequence",
     "description": "A Laravel package for easy creation and management sequence support for Eloquent models with elastic configuration.",
     "keywords": ["laravel", "sequence", "eloquent", "model", "order"],
     "authors": [
